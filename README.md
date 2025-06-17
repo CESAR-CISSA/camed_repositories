@@ -8,8 +8,11 @@ This repository centralizes the link to all others developed in the CAMED soluti
 ### 2. CAMED noCEP - CAMED (Contextual Anomaly Mitigation for Event-Driven Systems) project without CEP
 - https://github.com/CESAR-CISSA/camed_noCEP?tab=readme-ov-file#camed---nocep
 
-### 3. IPSee - Collect packages and return the protocols header fields.
+### 3. CAMED PWN - Extended fork of Akamai's MQTT-PWN project for use in CAMED.
+- https://github.com/CESAR-CISSA/camed_pwn
+
+### 4. IPSee - Collect packages and return the protocols header fields.
 - https://github.com/CESAR-CISSA/ipsee
 
-### 4. CAMED PWN - Extended fork of Akamai's MQTT-PWN project for use in CAMED.
-- https://github.com/CESAR-CISSA/camed_pwn
+### 5. IITS - Simulates an industrial environment with several IoT devices.
+- https://github.com/CESAR-CISSA/iits
