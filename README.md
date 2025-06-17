@@ -6,7 +6,7 @@ This repository centralizes the link to all others developed in the CAMED soluti
 - https://github.com/CESAR-CISSA/camed
 
 ### 2. CAMED noCEP - CAMED (Contextual Anomaly Mitigation for Event-Driven Systems) project without CEP
-- https://github.com/CESAR-CISSA/camed_noCEP?tab=readme-ov-file#camed---nocep
+- https://github.com/CESAR-CISSA/camed_noCEP
 
 ### 3. CAMED PWN - Extended fork of Akamai's MQTT-PWN project for use in CAMED.
 - https://github.com/CESAR-CISSA/camed_pwn
