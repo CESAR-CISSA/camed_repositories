@@ -16,3 +16,9 @@ This repository centralizes the link to all others developed in the CAMED soluti
 
 ### 5. IITS - Simulates an industrial environment with several IoT devices.
 - https://github.com/CESAR-CISSA/iits
+
+### 6. CAMED MODEL - An Isolation Forest based model for detecting bruteforce attacks against the MQTT protocol in IoT networks.
+- https://github.com/CESAR-CISSA/camed_model
+
+### 7. CAMED RESULTS - Solution to quantitatively compare the CAMED and NoCEP approaches
+- https://github.com/CESAR-CISSA/camed_results
